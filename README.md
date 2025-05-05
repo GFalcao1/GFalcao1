@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 
 Sou estudante de **Ciência da Computação** e apaixonado por tecnologia desde cedo — de jogos e eletrônica até automações e Inteligência Artificial.  
-Aos 21 anos, mantenho o foco em **crescimento constante**, sempre explorando novas ferramentas e buscando aplicar IA de forma eficiente e criativa no desenvolvimento de soluções.
+Aos 22 anos, mantenho o foco em **crescimento constante**, sempre explorando novas ferramentas e buscando aplicar IA de forma eficiente e criativa no desenvolvimento de soluções.
 
 ---
 
