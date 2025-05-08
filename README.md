@@ -15,7 +15,7 @@ Aos 22 anos, mantenho o foco em **crescimento constante**, sempre explorando nov
 ## 💻 Stack atual
 
 - **Linguagens**: Python (intermediário/avançado – incluindo assíncrono e concorrência), C (básico/intermediário), HTML e CSS (básico)
-- **Frameworks e APIs**: Django, FastAPI
+- **Frameworks e APIs**: FastAPI
 - **IA e LLMs**: LangChain, Hugging Face
 - **Outros**: Git, GitHub
 
