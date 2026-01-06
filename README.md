@@ -1,50 +1,47 @@
-# 👋 Olá! Eu sou Gabriel Falcão
+#  Gabriel Falcão | Software Engineer & AI Specialist
 
-🎯 Desenvolvedor focado em Inteligência Artificial, APIs e tecnologias de ponta.  
-🧠 Atualmente trilhando um caminho sólido rumo à engenharia de LLMs (Large Language Models) e aplicações com IA no backend.
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de **Ciência da Computação** e apaixonado por tecnologia desde cedo — de jogos e eletrônica até automações e Inteligência Artificial.  
-Aos 22 anos, mantenho o foco em **crescimento constante**, sempre explorando novas ferramentas e buscando aplicar IA de forma eficiente e criativa no desenvolvimento de soluções.
+Desenvolvedor **FullStack** com foco em **Engenharia de Software e Inteligência Artificial**. Especializado na criação de sistemas de alto desempenho utilizando **Java (Spring Boot)** e **Python (FastAPI)**, com ênfase na integração de Large Language Models (LLMs) e arquiteturas de backend modernas.
 
 ---
 
-## 💻 Stack atual
+## Perfil Profissional
 
-- **Linguagens**: Python (intermediário/avançado – incluindo assíncrono e concorrência), C (básico/intermediário), HTML e CSS (básico)
-- **Frameworks e APIs**: FastAPI
-- **IA e LLMs**: LangChain, Hugging Face
-- **Outros**: Git, GitHub
+Graduando em **Ciência da Computação**, aos 22 anos combino uma base sólida em algoritmos com a aplicação prática de tecnologias emergentes. Meu foco está em unir a robustez do ecossistema Java à flexibilidade da IA em Python, desenvolvendo soluções que não apenas resolvem problemas, mas escalam com eficiência.
 
 ---
 
-## 📚 Foco atual de estudos
+##  Stack Tecnológica
 
-- 🔹 **LLMs com LangChain e Hugging Face**
-- 🔹 **NLP clássica (Scikit-learn)** e **moderna (Transformers e Deep Learning)**
-- 🔹 **Frameworks de IA**: PyTorch, TensorFlow e Keras
-- 🔹 **Ambientes de deploy** com Docker e Kubernetes
-- 🔹 **Boas práticas de backend** com FastAPI + banco de dados
-- 🔹 **Cloud (AWS)** e integração de APIs inteligentes
+### **Backend & Arquitetura**
+* **Java:** Spring Boot (Data, Security, MVC).
+* **Persistência & Build:** Hibernate (em progresso), Maven (em progresso).
+* **Python:** FastAPI, Programação Assíncrona e Concorrência.
+* **Linguagens de Suporte:** C, SQL.
+* **DevOps & Infra:** Git, Docker, Kubernetes (em progresso), AWS.
 
----
-
-## 🧩 Curiosidades
-
-- 🧪 Curioso por natureza: estou sempre testando ideias com IA, APIs e automações.
-- 🤖 Acredito no poder da IA como **parceira de desenvolvimento**, não só como ferramenta.
+### **Inteligência Artificial & Dados**
+* **Orquestração de LLMs:** LangChain, Hugging Face.
+* **Machine Learning:** Scikit-learn (NLP Clássico), Transformers, PyTorch e TensorFlow.
+* **Integrações:** APIs inteligentes e automação de fluxos de trabalho.
 
 ---
 
-## 📫 Contato
+## Roadshow Técnico (Foco Atual)
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-falcao-guimaraes)  
-- 📧 gfg7171@gmail.com
+* **Arquitetura de Sistemas:** Deep dive em Microserviços com Spring Cloud e mensageria.
+* **Engenharia de LLMs:** Otimização de prompts, RAG (Retrieval-Augmented Generation) e fine-tuning.
+* **Nuvem:** Implementação de arquiteturas serverless e escalonamento na AWS.
+* **Deep Learning:** Especialização em redes neurais para processamento de linguagem natural.
 
 ---
 
-> “A tecnologia é a ponte entre o que somos e o que podemos nos tornar.”  
-> — Gabriel Falcão
+## Visão
+
+Acredito que a IA é o catalisador da próxima geração de software. Meu objetivo é construir a ponte entre modelos de linguagem avançados e sistemas corporativos resilientes, utilizando boas práticas de Clean Code e Design Patterns.
+
+---
+
+## Conecte-se comigo
+
+* **LinkedIn:** [gabriel-falcao-guimaraes](https://www.linkedin.com/in/gabriel-falcao-guimaraes)
+* **Email:** gfg7171@gmail.com
