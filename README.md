@@ -1,6 +1,5 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/gabriel-falcao-guimaraes">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
 
@@ -51,8 +50,3 @@ Sou proativo, orientado a resultados e busco constantemente resolver problemas c
 </div>
 
 <br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GFalcao1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFalcao1&layout=compact&langs_count=7&theme=transparent"/>
-</div>
