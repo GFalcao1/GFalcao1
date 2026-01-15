@@ -1,5 +1,6 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/gabriel-falcao-guimaraes">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> 
     </a>
 </div>
 
