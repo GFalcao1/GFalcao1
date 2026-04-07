@@ -37,7 +37,7 @@ Sou proativo, orientado a resultados e busco constantemente resolver problemas c
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,langgraph,langchain,aws,docker,git,github&theme=dark&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,git,github&theme=dark&perline=8"/>
 </div>
 
 <br/>
