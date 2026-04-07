@@ -19,11 +19,11 @@
 </div>
 
 <p align="center">
-Sou <strong>Desenvolvedor de Software focado em IA e Backend</strong>, com sólida experiência na criação de sistemas robustos e inteligentes. Atuo unindo o poder do ecossistema <strong>Java (Spring)</strong> com as inovações em <strong>Inteligência Artificial Generativa e Machine Learning</strong> utilizando Python.
+Sou <strong>Desenvolvedor de Software focado em IA e Backend</strong>, com sólida experiência na criação de sistemas inteligentes. Atuo unindo o poder do ecossistema <strong>Python(FastAPI)</strong> com as inovações em <strong>Inteligência Artificial Generativa e Machine Learning</strong>
 </p>
 
 <p align="center">
-Especialista no desenvolvimento de arquiteturas escaláveis, trabalho com a orquestração de fluxos complexos e agentes autônomos utilizando <strong>LangChain</strong> e <strong>LangGraph</strong>. Minha abordagem combina a confiabilidade do backend corporativo com a vanguarda das LLMs e sistemas distribuídos.
+Especialista no desenvolvimento de arquiteturas escaláveis, trabalho com a orquestração de fluxos complexos e agentes autônomos utilizando <strong>LangChain</strong> e <strong>LangGraph</strong>. Minha abordagem combina a confiabilidade do backend corporativo com a vanguarda das LLMs, sistemas distribuídos e Agents Ai.
 </p>
 
 <p align="center">
@@ -37,13 +37,12 @@ Sou proativo, orientado a resultados e busco constantemente resolver problemas c
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,aws,docker,git,github&theme=dark&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,langgraph,langchain,aws,docker,git,github&theme=dark&perline=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
     <img src="https://img.shields.io/badge/LangGraph-1E1E1E?style=for-the-badge&logo=graphql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
