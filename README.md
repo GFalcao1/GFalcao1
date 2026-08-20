@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/gabriel-falcao-guimaraes">
         <img
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn"
         />
     </a>
@@ -39,22 +39,20 @@ over simply adding technologies to a stack.
 </div>
 
 <div align="center">
-    <img
-        src="https://skillicons.dev/icons?i=python,git,github&theme=dark&perline=8"
-        alt="Current engineering stack"
-    />
+
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 <br/>
 
-<div align="center">
-
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-111111?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-111111?style=for-the-badge)
-![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-111111?style=for-the-badge)
-![Software Design](https://img.shields.io/badge/Software_Design-111111?style=for-the-badge)
-
-</div>
+<p align="center">
+<strong>
+Problem Solving · Data Structures & Algorithms · Backend Engineering · Software Design
+</strong>
+</p>
 
 <br/>
 
@@ -63,7 +61,7 @@ over simply adding technologies to a stack.
 </div>
 
 <p align="center">
-Currently progressing through a structured roadmap covering:
+Currently progressing through a structured engineering roadmap:
 </p>
 
 <p align="center">
@@ -76,19 +74,30 @@ System Design → Distributed Systems → AWS → Applied AI
 <br/>
 
 <div align="center">
+    <h3>Currently Learning</h3>
+</div>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-Learning-555555?style=flat-square)
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 <br/>
 
+<p align="center">
+<strong>
+System Design · Computer Science · Testing · Software Architecture · AWS
+</strong>
+</p>
+
+<br/>
+
 <div align="center">
-    <h2>🤖 Applied AI — Long-Term Focus</h2>
+    <h2>Applied AI — Long-Term Focus</h2>
 </div>
 
 <p align="center">
@@ -106,11 +115,12 @@ LangChain → LangGraph → AI Agents
 <br/>
 
 <div align="center">
+    <h3>Future Applied AI Stack</h3>
+</div>
 
-![LLMs](https://img.shields.io/badge/LLMs-Roadmap-555555?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Roadmap-555555?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-Roadmap-555555?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-Roadmap-555555?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Roadmap-555555?style=flat-square)
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 
 </div>
